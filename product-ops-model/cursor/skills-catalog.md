@@ -39,7 +39,25 @@ Cluster qualitative and quantitative signals into validated insight candidates.
 - Avoid fabricated certainty.
 - Keep facts separate from interpretation.
 
-## Skill 3: Experiment Designer
+## Skill 3: Canny Insight Capture Coach
+
+### Purpose
+Convert customer signals into consistently tagged, evidence-backed insight records.
+
+### Inputs
+- Raw customer notes, calls, support escalations, and field observations.
+- Required tagging model (customer, role, theme, keyword, time).
+
+### Output
+- Structured insight entry aligned to the Canny capture standard.
+- Promotion recommendation: signal only vs insight candidate.
+
+### Quality checks
+- No solutioning mixed into raw signal capture.
+- Required tags are complete.
+- Source evidence is traceable.
+
+## Skill 4: Experiment Designer
 
 ### Purpose
 Generate test options for key assumptions with success criteria and risks.
@@ -58,7 +76,25 @@ Generate test options for key assumptions with success criteria and risks.
 - Includes guardrail metrics.
 - Identifies ethical/privacy risks.
 
-## Skill 4: PRD-Lite Co-pilot
+## Skill 5: Shape Up Pitch Shaper
+
+### Purpose
+Draft a one-pager pitch that applies fixed-time, variable-scope discipline.
+
+### Inputs
+- Opportunity assessment.
+- Discovery evidence summary.
+- Delivery constraints and dependencies.
+
+### Output
+- Shape Up pitch one-pager with appetite, out-of-scope, and risk/rabbit-hole framing.
+
+### Quality checks
+- Appetite is explicit.
+- Must-have vs nice-to-have split is clear.
+- Top rabbit holes and mitigations are realistic.
+
+## Skill 6: PRD-Lite Co-pilot
 
 ### Purpose
 Draft a concise implementation brief from opportunity and discovery inputs.
@@ -76,7 +112,7 @@ Draft a concise implementation brief from opportunity and discovery inputs.
 - Out-of-scope is explicit.
 - Risks and dependencies are clear.
 
-## Skill 5: Post-Launch Learning Analyst
+## Skill 7: Post-Launch Learning Analyst
 
 ### Purpose
 Summarize outcomes vs expectations and recommend next decisions.

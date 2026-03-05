@@ -19,6 +19,10 @@ It is designed to help teams:
   Continuous discovery operating system and routines.
 - `product-ops-model/04-implementation-roadmap.md`  
   30-60-90 day rollout and maturity path.
+- `product-ops-model/05-shape-up-plc-alignment.md`  
+  Alignment between current Shape Up PLC (Confluence) and this framework.
+- `product-ops-model/06-skills-knowledge-training-guide.md`  
+  Role-based training plan for scalable execution.
 - `product-ops-model/templates/`  
   Ready-to-use Markdown templates for common product artifacts.
 - `product-ops-model/cursor/skills-catalog.md`  
@@ -33,7 +37,9 @@ It is designed to help teams:
 3. Implement discovery practices in `03-continuous-discovery-operating-system.md`.
 4. Select and socialize templates from `templates/`.
 5. Set up Cursor rules from `.cursor/rules/product-ops-rules.mdc`.
-6. Roll out with the plan in `04-implementation-roadmap.md`.
+6. Align current Shape Up practices via `05-shape-up-plc-alignment.md`.
+7. Run enablement using `06-skills-knowledge-training-guide.md`.
+8. Roll out with the plan in `04-implementation-roadmap.md`.
 
 ## Confluence migration note
 

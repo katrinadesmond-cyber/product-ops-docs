@@ -9,6 +9,8 @@ Use these templates as standardized artifact starting points.
 3. `template-experiment-card.md`
 4. `template-prd-lite.md`
 5. `template-quarterly-product-health-review.md`
+6. `template-canny-customer-insight-capture.md`
+7. `template-shape-up-pitch-one-pager.md`
 
 ## Suggested mapping to Confluence
 
