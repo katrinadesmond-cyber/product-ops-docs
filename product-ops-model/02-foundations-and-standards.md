@@ -51,6 +51,14 @@ Standards reduce ambiguity, improve cross-team collaboration, and make scaling p
 ### Standard F: Learning closure
 - Post-launch or post-test summary is mandatory (what happened, why, what next).
 
+### Standard G: Design system first for UI initiatives
+- Teams must evaluate existing design system components before creating new UI patterns.
+- New components require rationale, reuse intent, and ownership.
+
+### Standard H: Rules and skills governance
+- Every team should know which guidance is a non-negotiable rule vs reusable skill.
+- Product Ops owns governance with domain leads as content stewards.
+
 ## Artifact quality criteria
 
 ### Opportunity artifact is high quality when it is:
@@ -99,6 +107,7 @@ Recommended artifact locations:
 - PRD-lite complete.
 - Experiment plan for key unknowns defined.
 - Responsible AI review completed if applicable.
+- Track-specific checkpoints passed (UI or backend workflow gates).
 
 ### Stage 4: Learning and iteration
 - Outcome tracking live.
@@ -111,3 +120,6 @@ Recommended artifact locations:
 - Using AI-generated artifacts without source validation.
 - Measuring only shipped features, not customer outcomes.
 - Skipping retrospective learning when results are poor.
+- Anchoring too early in solution space.
+- HIPPO-led decisions overriding evidence.
+- Treating polished prototypes as proof of validated customer value.

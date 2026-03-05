@@ -35,6 +35,7 @@ Create a repeatable discovery system that is lightweight enough for delivery tea
 - 1 customer evidence touchpoint (interview, observation, or analysis).
 - 1 synthesis checkpoint (30-45 minutes).
 - 1 experiment or assumption update.
+- 1 "show-your-work" update linking evidence -> assumptions -> decisions.
 
 ### Bi-weekly minimum
 - Opportunity-Solution Tree update.
@@ -92,6 +93,14 @@ Track these indicators:
 - Fabricating user quotes or evidence.
 - Using sensitive data in unapproved AI tools.
 - Presenting AI output as validated fact without source checks.
+
+## Discovery quality rescue triggers
+
+When these appear, teams should pause commitment and run a discovery reset:
+- stale or weak evidence for active initiatives;
+- solution direction chosen before problem clarity;
+- unresolved assumptions treated as facts;
+- stakeholder debate driven by opinion rank rather than evidence.
 
 ## Discovery roles and responsibilities
 

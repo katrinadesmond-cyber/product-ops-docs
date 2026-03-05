@@ -129,6 +129,82 @@ Summarize outcomes vs expectations and recommend next decisions.
 - Distinguishes signal from noise.
 - Explains uncertainty and confidence.
 
+## Skill 8: Backend Context Mapper
+
+### Purpose
+Provide AI with the right backend context before implementation planning starts.
+
+### Inputs
+- Architecture docs and service boundaries.
+- API/interface contracts.
+- Known constraints and dependency map.
+
+### Output
+- Context pack summary for the initiative.
+- Build-vs-reuse recommendation grounded in existing backend structures.
+
+### Quality checks
+- References current sources.
+- Names constraints and dependencies explicitly.
+- Avoids proposing architecture that conflicts with known standards.
+
+## Skill 9: Design System Reuse Advisor
+
+### Purpose
+Ensure UI proposals prefer existing design patterns and reusable components.
+
+### Inputs
+- Design system docs and component inventory.
+- Relevant Figma/Storybook references (where available).
+- Product requirements and user states.
+
+### Output
+- Reuse plan for existing components.
+- If needed, proposal for new reusable component with rationale.
+
+### Quality checks
+- Existing components considered first.
+- New components justify generic reuse potential.
+- Accessibility and interaction states are documented.
+
+## Skill 10: Product Design Decision Recorder
+
+### Purpose
+Capture design decisions so knowledge is reusable beyond individual team memory.
+
+### Inputs
+- Decision context and options considered.
+- Evidence links and design artifacts.
+- Implementation and risk considerations.
+
+### Output
+- Completed product design decision record.
+- Follow-up review plan.
+
+### Quality checks
+- Decision rationale is explicit.
+- Evidence and tool links are included.
+- Reuse implications are documented.
+
+## Skill 11: PLC Checkpoint Gate Checker
+
+### Purpose
+Validate that required checkpoints are met for UI and backend tracks before commitment.
+
+### Inputs
+- Opportunity/discovery artifacts.
+- Pitch/PRD and dependency notes.
+- Risk and assumption test status.
+
+### Output
+- Gate status by checkpoint (pass/at risk/fail).
+- Required remediation actions before progression.
+
+### Quality checks
+- Uses explicit pass/fail criteria.
+- Highlights stale evidence or missing assumptions.
+- Flags skip-risk when delivery pace exceeds discovery quality.
+
 ## Suggested team practice
 
 - Assign one "AI artifact owner" per initiative.

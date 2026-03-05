@@ -23,6 +23,10 @@ It is designed to help teams:
   Alignment between current Shape Up PLC (Confluence) and this framework.
 - `product-ops-model/06-skills-knowledge-training-guide.md`  
   Role-based training plan for scalable execution.
+- `product-ops-model/07-team-learnings-and-priorities-mar-2026.md`  
+  Interview-derived learnings, risks, and 90-day priority actions.
+- `product-ops-model/08-cursor-rules-and-skills-governance.md`  
+  Clear definitions, ownership, and lifecycle for Cursor rules and skills.
 - `product-ops-model/templates/`  
   Ready-to-use Markdown templates for common product artifacts.
 - `product-ops-model/cursor/skills-catalog.md`  

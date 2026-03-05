@@ -44,3 +44,18 @@ alwaysApply: false
 ## 8) Collaboration rule
 - Ensure product, design/research, and engineering viewpoints are represented.
 - Highlight unresolved cross-functional tradeoffs.
+
+## 9) Design system reuse rule
+- For UI work, check existing design system patterns/components before creating new ones.
+- If proposing a new component, document:
+  - why existing components do not fit,
+  - expected reuse potential,
+  - ownership for maintenance.
+
+## 10) Show-your-work rule
+- For major proposals, include evidence links, assumption list, and tradeoff rationale.
+- Do not rely on polished prototypes as proof of problem-solution fit.
+
+## 11) Discovery-before-delivery rule
+- Do not fast-track to implementation when problem framing is weak.
+- Require at least one explicit assumption test for high-uncertainty initiatives.

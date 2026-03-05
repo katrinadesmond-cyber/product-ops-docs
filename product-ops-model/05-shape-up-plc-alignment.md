@@ -90,3 +90,5 @@ Translate the current Shape Up PLC practices from Confluence exports into explic
 2. Add a Shape Up pitch one-pager template to the shared library.
 3. Train teams on signal -> insight -> opportunity quality checks.
 4. Run monthly Product Ops audit on traceability and evidence quality.
+5. Publish rule vs skill governance model for Cursor usage.
+6. Add UI/backend checkpoint workflow and enforce at commitment stage.

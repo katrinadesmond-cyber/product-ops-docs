@@ -11,6 +11,8 @@ Use these templates as standardized artifact starting points.
 5. `template-quarterly-product-health-review.md`
 6. `template-canny-customer-insight-capture.md`
 7. `template-shape-up-pitch-one-pager.md`
+8. `template-plc-checkpoint-workflow.md`
+9. `template-product-design-decision-record.md`
 
 ## Suggested mapping to Confluence
 

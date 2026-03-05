@@ -39,7 +39,7 @@ By the end of training, teams should be able to:
 
 Legend: R = Responsible, A = Accountable, C = Consulted.
 
-## Curriculum design (6 modules)
+## Curriculum design (8 modules)
 
 ### Module 1: Customer Insight Capture (Canny)
 - **Objective**: create high-quality insights with required tags and evidence.
@@ -95,6 +95,26 @@ Legend: R = Responsible, A = Accountable, C = Consulted.
   - assumptions clearly marked,
   - no fabricated evidence or quotes.
 
+### Module 7: Rules vs Skills Governance
+- **Objective**: help teams apply non-negotiable rules while reusing skills effectively.
+- **Artifacts**: `08-cursor-rules-and-skills-governance.md`.
+- **Practice**: classify 20 examples as rule vs skill and define ownership.
+- **Pass criteria**:
+  - classification is correct and justified,
+  - owner and review cadence identified,
+  - ambiguous guidance converted into explicit rule/skill format.
+
+### Module 8: Design-to-Dev Workflow Excellence
+- **Objective**: reduce manual handoff and improve design system reuse quality.
+- **Artifacts**:
+  - `template-product-design-decision-record.md`,
+  - `template-plc-checkpoint-workflow.md`.
+- **Practice**: run a mock UI initiative through checkpoints with decision record.
+- **Pass criteria**:
+  - reuse-first design decision is explicit,
+  - checkpoint evidence is complete,
+  - handoff clarity issues are identified and mitigated.
+
 ## 4-week rollout plan
 
 ### Week 1
@@ -110,7 +130,8 @@ Legend: R = Responsible, A = Accountable, C = Consulted.
 - Mock go/no-go review simulation.
 
 ### Week 4
-- Module 6 workshop and final assessment.
+- Module 6 + Module 7 workshops.
+- Module 8 capstone simulation and final assessment.
 - Team-level improvement plans and certification.
 
 ## Assessment rubric (simple and scalable)
