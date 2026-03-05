@@ -1,0 +1,61 @@
+---
+description: Product operations standards for AI-assisted product development
+globs:
+  - "**/*.md"
+  - "product-ops-model/**/*.md"
+alwaysApply: false
+---
+
+# Product Ops Rules (AI Product Development)
+
+## 1) Outcome-first rule
+- Tie every artifact to one primary customer/business outcome metric.
+- Do not proceed with solution detail if the outcome is unclear.
+
+## 2) Evidence integrity rule
+- Distinguish clearly between:
+  - evidence (observed facts),
+  - assumptions (untested beliefs),
+  - recommendations (proposed actions).
+- Never invent customer quotes, data points, or sources.
+
+## 3) Continuous discovery rule
+- For active initiatives, include recent customer evidence (ideally last 14 days).
+- If evidence is stale, recommend discovery actions before committing major scope.
+
+## 4) Experimentation rule
+- For high-risk assumptions, produce an experiment card before finalizing PRD scope.
+- Define success/failure thresholds and guardrails.
+
+## 5) Responsible AI rule
+- Flag privacy, bias, misuse, and transparency risks for AI-enabled capabilities.
+- Recommend human review checkpoints for high-impact decisions.
+
+## 6) Artifact quality rule
+- Use concise, structured headings.
+- Use clear owners, dates, and next actions.
+- Include explicit "out of scope" where relevant.
+
+## 7) Decision clarity rule
+- End major docs with decision recommendation:
+  - continue, iterate, pause, or stop;
+  - owner and date for decision.
+
+## 8) Collaboration rule
+- Ensure product, design/research, and engineering viewpoints are represented.
+- Highlight unresolved cross-functional tradeoffs.
+
+## 9) Design system reuse rule
+- For UI work, check existing design system patterns/components before creating new ones.
+- If proposing a new component, document:
+  - why existing components do not fit,
+  - expected reuse potential,
+  - ownership for maintenance.
+
+## 10) Show-your-work rule
+- For major proposals, include evidence links, assumption list, and tradeoff rationale.
+- Do not rely on polished prototypes as proof of problem-solution fit.
+
+## 11) Discovery-before-delivery rule
+- Do not fast-track to implementation when problem framing is weak.
+- Require at least one explicit assumption test for high-uncertainty initiatives.
