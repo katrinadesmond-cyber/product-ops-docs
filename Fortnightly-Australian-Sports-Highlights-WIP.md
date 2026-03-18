@@ -60,6 +60,17 @@
 
 ---
 
+### Matildas (Women's Football)
+
+*Matildas hosting Korea Republic in Sydney and Newcastle—the nation's got more green-and-gold fever than a Bunnings sausage sizzle.*
+
+| Highlight | Details |
+|-----------|---------|
+| **Korea Republic Series** | Two-match series in early April: April 4 at Allianz Stadium Sydney, April 7 at McDonald Jones Stadium Newcastle. Leah Davidson (Melbourne City) received a call-up after Katrina Gorry was withdrawn by West Ham for medical reasons. |
+| **A-League Women** | Melbourne City equalled the all-time league unbeaten record (18 consecutive games); Freier scored for Brisbane. Matildas to play Argentina in Canberra, June 2, ahead of AFC Women's Asian Cup Australia 2026. |
+
+---
+
 ### Motorsport (F1)
 
 *Oscar hasn't started a race yet, but Aussie hype's revving harder than a V8 at Bathurst.*
@@ -75,6 +86,7 @@
 | Rugby | Waratahs end 13-game Brumbies streak |
 | Cricket | Owen wins T20 batting award |
 | A-League | Jets down City; Wanderers v Victory |
+| Matildas | Korea Republic series; City equals 18-game unbeaten record |
 | F1 | Oscar Piastri—Aussie hype at full throttle |
 
 ---
