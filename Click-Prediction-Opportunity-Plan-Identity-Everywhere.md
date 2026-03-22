@@ -11,12 +11,12 @@ By running controlled experiments with retailers that have integrated first‑pa
 This directly addresses two current gaps:
 1. A lack of outcome‑led Identity Everywhere proof points
 2. A need to de‑risk and validate Click Prediction effectiveness in real retailer environments
-
-**INFO**
+----------------
 Identity Everywhere needs credible, repeatable proof points that show real commercial impact when retailers share first-party data and enable CoreID/FPC integration.  
 - CoreID adoption is still low (only a small share of retailers are fully tagged/integrated)
 - Retailers and advertisers respond to ROI evidence, not identity mechanics
 - GTM needs reusable proof collateral (case studies, benchmarks, dashboards) to accelerate adoption
+----------------
 
 ### 2) Problem We Are Solving (Practical Level)
 Today, we cannot clearly answer two critical questions with real data:
