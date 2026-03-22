@@ -1,4 +1,3 @@
-# One-Page Opportunity Plan
 ## Click Prediction: Proof Point Engine for Identity
 
 ### 1) Opportunity
