@@ -1,5 +1,6 @@
 # Customer Insight Framing
 
+>I changed this doc as a test to commit changes
 > Converted from Confluence export to Markdown.
 > Fill in placeholders and adapt sections to your product context.
 
