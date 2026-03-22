@@ -41,21 +41,15 @@ Advertisers are impacted by:
 |If a retailer provides first‑party customer identity (CoreID/FPC), then identity‑powered Click Prediction will:
 - Improve ad relevancy and CTR
 - Drive incremental revenue uplift
-- Deliver stronger performance in non‑search and low‑intent placements, where identity helps infer intent  | Content Cell  |
-| When Click Prediction is linked with identity signals:
-- Prediction accuracy improves vs non‑identity traffic
-- Ranking performance is more stable in sparse‑data scenarios (new products, new queries)
-- Advertisers can bid more confidently due to higher purchase probability
-- Overall system performance exceeds baseline ranking approaches  | Content Cell  |
+- Deliver stronger performance in non‑search and low‑intent placements, where identity helps infer intent |
 
-**Click Prediction Performance Hypothesis**
-When Click Prediction is linked with identity signals:
+|When Click Prediction is linked with identity signals:
 - Prediction accuracy improves vs non‑identity traffic
 - Ranking performance is more stable in sparse‑data scenarios (new products, new queries)
 - Advertisers can bid more confidently due to higher purchase probability
 - Overall system performance exceeds baseline ranking approaches
+This proves Click Prediction is not only working, but working as intended—and that identity materially enhances its effectiveness |
 
-This proves Click Prediction is not only working, but working as intended—and that identity materially enhances its effectiveness
 
 ### 4) Retailer Candidate Criteria (Who We Test With)
 Prioritize 1-2 pilot retailers that meet:
