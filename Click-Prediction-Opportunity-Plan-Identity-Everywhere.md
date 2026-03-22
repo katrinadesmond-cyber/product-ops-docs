@@ -1,31 +1,54 @@
 # One-Page Opportunity Plan
-## Click Prediction as a Proof Point Engine for Identity Everywhere
+## Click Prediction: Proof Point Engine for Identity
 
-### 1) Opportunity Statement
-Identity Everywhere needs credible, repeatable proof points that show **real commercial impact** when retailers share first-party data and enable CoreID/FPC integration.  
-Click Prediction is a high-leverage way to produce those proof points because it directly ties identity quality to ad relevance, click-through performance, and revenue outcomes.
+### 1) Opportunity
+Click Prediction, when paired with retailer first‑party identity data (CoreID / FPC), presents a dual opportunity to:
+1. Generate tangible, retailer‑validated proof points for the Identity Everywhere Initiative, and
+2. Validate that Click Prediction performs as designed and performs better when linked with identity
 
-This aligns with initiative findings that:
-- CoreID adoption is still low (only a small share of retailers are fully tagged/integrated).
-- Retailers and advertisers respond to **ROI evidence**, not identity mechanics.
-- GTM needs reusable proof collateral (case studies, benchmarks, dashboards) to accelerate adoption.
+By running controlled experiments with retailers that have integrated first‑party customer identity, we can demonstrate measurable revenue, relevancy, and yield uplift driven by identity‑powered ranking, while also proving that Click Prediction is robust, performant, and materially enhanced by identity signals.
+
+This directly addresses two current gaps:
+1. A lack of outcome‑led Identity Everywhere proof points
+2. A need to de‑risk and validate Click Prediction effectiveness in real retailer environments
+
+Identity Everywhere needs credible, repeatable proof points that show real commercial impact when retailers share first-party data and enable CoreID/FPC integration.  
+- CoreID adoption is still low (only a small share of retailers are fully tagged/integrated)
+- Retailers and advertisers respond to ROI evidence, not identity mechanics
+- GTM needs reusable proof collateral (case studies, benchmarks, dashboards) to accelerate adoption
 
 ### 2) Problem We Are Solving (Practical Level)
+Today, we cannot clearly answer two critical questions with real data:
+- Does identity meaningfully improve onsite retail media outcomes?
+- Does Click Prediction work as intended and does it work better when identity is present?
+Without real‑world experimentation:
+- Identity remains hard to position as a revenue and relevancy enabler
+- Click Prediction remains a feature claim, rather than a proven optimisation capability
+
 Retailers struggle to:
-1. **Maximize yield**: static ranking/default CTR assumptions leave revenue on the table.
-2. **Serve relevant ads**: sparse CTR data (new SKUs/new terms) degrades ranking quality.
-3. **Scale performance consistently**: each retailer has different data maturity and identity coverage.
+1. Revenue left on the table due to static ranking and weak default CTR assumptions
+2. Limited relevancy when CTR data is sparse (new products, new queries)
+3. Session‑based signals that fail to recognize known shoppers across browsing and intent states
 
 Advertisers are impacted by:
-1. **Suboptimal placement quality**: weaker relevance lowers CTR and conversion potential.
+1. Poor ad placement lowers CTR and conversion potential
+2. Inability to confidently bid harder when user purchase probability is unknown
 
 ### 3) Hypothesis
-If a retailer has persistent first-party identity signals (CoreID + FPC-enabled data), then Click Prediction can better estimate shopper engagement likelihood, improve relevance ranking, and deliver measurable incremental revenue versus baseline ranking.
+**Identity Everywhere Hypothesis**
+If a retailer provides first‑party customer identity (CoreID/FPC), then identity‑powered Click Prediction will:
+- Improve ad relevancy and CTR
+- Drive incremental revenue uplift
+- Deliver stronger performance in non‑search and low‑intent placements, where identity helps infer intent
 
-Secondary hypothesis:
-- Uplift will differ by intent context:
-  - **Search placements** (higher intent): stronger conversion efficiency effects.
-  - **Non-search placements/homepage** (lower intent): stronger relevance and engagement lift potential.
+**Click Prediction Performance Hypothesis**
+When Click Prediction is linked with identity signals:
+- Prediction accuracy improves vs non‑identity traffic
+- Ranking performance is more stable in sparse‑data scenarios (new products, new queries)
+- Advertisers can bid more confidently due to higher purchase probability
+- Overall system performance exceeds baseline ranking approaches
+
+This proves Click Prediction is not only working, but working as intended—and that identity materially enhances its effectiveness
 
 ### 4) Retailer Candidate Criteria (Who We Test With)
 Prioritize 1-2 pilot retailers that meet:
@@ -39,56 +62,27 @@ Prioritize 1-2 pilot retailers that meet:
 **Control:** current ad ranking logic (existing relevance/default CTR approach).  
 **Treatment:** Click Prediction-driven ranking using identity + behavioral features.
 
-Test cells:
-1. Search placements (high intent)
-2. Non-search placements (browse/home/category; lower explicit intent)
+### 6) What this Proves
+For Identity Everywhere
+- Identity directly improves monetisation outcomes
+- CoreID/FPC enables smarter ranking and personalisation
+- Identity is foundational infrastructure not a standalone product
 
-Primary KPIs:
-- CTR uplift (%)
-- Revenue per thousand ad impressions (RPM) / monetization lift
-- Conversion rate (where available)
-- Relevancy score/ranking quality improvements
+For Click Prediction
+- The model works in real retailer environments
+- Performance improves when identity is available
+- Click Prediction is production‑ready, scalable, and revenue‑impacting
 
-Secondary KPIs:
-- Incremental ROAS (where attributable)
-- New-to-brand/new-to-file shopper engagement
-- Match-rate/identity coverage diagnostics to explain variance in impact
-
-Measurement principles:
-- Predefine significance thresholds and minimum sample sizes.
-- Segment results by identified vs non-identified traffic to show identity effect.
-- Report both absolute lift and confidence ranges.
-
-### 6) Proof Point Pack Deliverables (For Identity Everywhere GTM)
+### 7) What this Proves
 Produce a reusable package immediately after readout:
-1. **Executive one-pager:** business problem, intervention, outcomes, and recommendation.
-2. **Before/after KPI scorecard:** CTR, RPM/revenue, conversion, relevance metrics.
-3. **Identity impact view:** relationship between identity coverage quality and performance lift.
-4. **Use-case narrative:** “If I know it is you browsing, I can surface the right ad.”
-5. **Sales-ready assets:** 3-slide GTM storyline + objection handling bullets (privacy, complexity, lift durability).
+- Executive read-out
+- Before/after Scorecard
+- Identity impact view
+- Case-Study narrative
+- GTM Sales/ CSM assets
 
-### 7) 90-Day Execution Plan
-**Days 0-30 (Setup):**
-- Finalize pilot retailer(s), data readiness checks, and experiment spec.
-- Lock KPI definitions, governance, and analytics instrumentation.
-
-**Days 31-60 (Run):**
-- Launch A/B in search and non-search placements.
-- Monitor pacing, data quality, and interim guardrails.
-
-**Days 61-90 (Readout + Activation):**
-- Complete analysis and confidence assessment.
-- Publish proof point pack and roll into Identity Everywhere enablement.
-- Define scale criteria for next 3-5 retailers.
-
-### 8) Risks and Mitigations
-- **Low identity coverage:** gate candidate selection on minimum CoreID/FPC readiness.
-- **Noisy attribution:** use predefined measurement windows and confidence intervals.
-- **Legal/privacy delays:** align early with standardized DPA/privacy-first playbooks.
-- **Weak GTM translation:** package outputs into outcome-led, non-technical narratives.
-
-### 9) Success Criteria
+### 8) Success Criteria
 This opportunity is successful if the pilot yields:
-1. Statistically credible uplift in at least one primary KPI (CTR and/or RPM/revenue).
-2. Clear evidence that identity quality strengthens Click Prediction performance.
-3. A publishable proof point pack that accelerates Identity Everywhere adoption and supports broader rollout.
+- Statistically credible uplift in at least one primary KPI (CTR and/or RPM/revenue)
+- Clear evidence that identity quality strengthens Click Prediction performance
+- A publishable proof point pack that accelerates Identity Everywhere adoption and supports broader rollout
