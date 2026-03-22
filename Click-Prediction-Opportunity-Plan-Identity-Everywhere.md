@@ -12,6 +12,7 @@ This directly addresses two current gaps:
 1. A lack of outcome‑led Identity Everywhere proof points
 2. A need to de‑risk and validate Click Prediction effectiveness in real retailer environments
 
+**INFO**
 Identity Everywhere needs credible, repeatable proof points that show real commercial impact when retailers share first-party data and enable CoreID/FPC integration.  
 - CoreID adoption is still low (only a small share of retailers are fully tagged/integrated)
 - Retailers and advertisers respond to ROI evidence, not identity mechanics
