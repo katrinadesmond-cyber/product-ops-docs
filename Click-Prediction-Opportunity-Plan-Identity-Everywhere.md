@@ -74,7 +74,7 @@ For Click Prediction
 - Performance improves when identity is available
 - Click Prediction is production‑ready, scalable, and revenue‑impacting
 
-### 7) What this Proves
+### 7) Proof Point Deliverables
 Produce a reusable package immediately after readout:
 - Executive read-out
 - Before/after Scorecard
